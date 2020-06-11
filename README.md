@@ -1,1 +1,1 @@
-Configure micro-controller peripherals, master ARM architecture and build professional ARM embedded firmware for ARM processors
+Established a solid foundation in bare-metal firmware development for ARM-based microcontrollers. Navigated the STM32F411RE microcontroller reference manual and datasheet to extract the right information to professionally build peripherals drivers and firmware. To achieve this goal, no libraries are used, purely bare-metal embedded-c and register manipulations. 
